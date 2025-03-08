@@ -39,7 +39,6 @@ const patryk = {
 ## 🎯 Core Specialties
 
 - ⚡ **High-Performance Systems** - Building lightning-fast applications in Rust
-- 💹 **DeFi & MEV Development** - Creating arbitrage bots and trading systems
 - 🤖 **Automation Engineering** - Developing sophisticated scraping and content systems
 - 📱 **Web3 & Blockchain** - Smart contract development and decentralized applications
 
