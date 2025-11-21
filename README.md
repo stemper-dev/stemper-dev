@@ -56,7 +56,7 @@ Crypto arbitrage bot built in Rust that detects and executes profitable trading 
 ### [Maskify](https://patryk.dev/project/maskify)
 Content transformation platform that helps social media agencies reuse viral videos across multiple accounts by altering audio and metadata to bypass algorithm detection.
 
-### [Hyperspartan](https://hyperspartan.xyz)
+### [Hyperliquid Bot]
 AI-powered Telegram bot for Hyperliquid traders providing natural language trading commands, automated strategies, and real-time position management.
 
 ### [Airtable Social Media Analyzer](https://patryk.dev/project/airtable-analyzer)
