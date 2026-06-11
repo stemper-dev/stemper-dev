@@ -1,54 +1,90 @@
-# 👋 Hi, I'm Patryk
+<div align="center">
+  
+  <h1>Hi, I'm Patryk 👋</h1>
+  <h3>Senior Software Engineer | Cloud Architect | Automation Expert</h3>
+  <p>Building high-performance applications, enterprise automation systems, and AI-powered tools.</p>
+  
+  <p>
+    <a href="https://linkedin.com/in/0xpatryk" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://patryk.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/stemper-dev" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0xpatryk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://0xpatryk.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/0xPatryk)
+  <br />
 
-🛠 Contributor to **[ZED IDE](https://github.com/zed-industries/zed)** and **[Coolify](https://github.com/coollabsio/coolify)**.
+  <!-- Unified, clean tech stack icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,ts,py,react,flutter,tailwind,docker,postgres,azure,supabase,nodejs&perline=11" alt="Tech Stack" />
+  </a>
+  
+  <br /><br />
+  
+  <p>
+    🛠 Contributor to <b><a href="https://github.com/zed-industries/zed">ZED IDE</a></b> and <b><a href="https://github.com/coollabsio/coolify">Coolify</a></b>.
+  </p>
 
-## 💻 Tech Stack
+</div>
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xPatryk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 💼 Senior Software Engineer | Automation Expert
-
-I build high-performance applications and automation systems that solve real-world problems.
+## 👨‍💻 About Me
 
 ```typescript
 const patryk = {
+  role: "Senior Software Engineer & Systems Architect",
+  focus: ["Cloud Infrastructure", "AI/LLM Integration", "Enterprise Automation"],
   skills: {
     languages: ["Rust", "TypeScript", "Python", "SQL"],
-    tech: ["React", "Node.js", "Docker", "PostgreSQL", "Flutter"],
+    tech: ["React", "Node.js", "Docker", "PostgreSQL", "Flutter", "Azure"],
   },
-  currentFocus: "Building high-performance tools and automation systems"
+  currentObjective: "Building high-performance tools that solve real-world problems"
 };
 ```
 
-## 📫 Let's Connect
-
-- [Portfolio Website](https://patryk.dev)
-- [LinkedIn](https://linkedin.com/in/0xpatryk)
-- [GitHub](https://github.com/0xPatryk)
+<br/>
 
 ## 🚀 Featured Projects
 
-### [Deep Work Notifier](https://github.com/0xPatryk/deep-work-notifier)
-A tool that checks all your information sources and notifies you in case of an emergency while you are in a deep work session.
+<!-- Using HTML tables creates a clean 2x2 grid for your projects -->
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/stemper-dev/deep-work-notifier">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=stemper-dev&repo=deep-work-notifier&theme=transparent&hide_border=true&title_color=5673f1&icon_color=fe00ff&text_color=a6a6a6" width="100%" alt="Deep Work Notifier" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/stemper-dev/immovoice">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=stemper-dev&repo=immovoice&theme=transparent&hide_border=true&title_color=5673f1&icon_color=fe00ff&text_color=a6a6a6" width="100%" alt="Immovoice" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/stemper-dev/getshitdone-chrome-extension">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=stemper-dev&repo=getshitdone-chrome-extension&theme=transparent&hide_border=true&title_color=5673f1&icon_color=fe00ff&text_color=a6a6a6" width="100%" alt="Get Shit Done" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/stemper-dev/next-supabase-biome-boilerplate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=stemper-dev&repo=next-supabase-biome-boilerplate&theme=transparent&hide_border=true&title_color=5673f1&icon_color=fe00ff&text_color=a6a6a6" width="100%" alt="Boilerplate" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### [Get Shit Done (Chrome Extension)](https://github.com/0xPatryk/getshitdone-chrome-extension)
-A Chrome extension designed to boost productivity and keep you focused on getting things done.
+<br/>
 
-### [Next + Supabase + Biome Boilerplate](https://github.com/0xPatryk/next-supabase-biome-boilerplate)
-A modern, scalable boilerplate for quickly building full-stack applications with Next.js, Supabase, and Biome.
+## 📊 GitHub Analytics
 
-### [Immovoice (Hyperion)](https://github.com/0xPatryk/immovoice)
-An AI-Powered Voice Platform built for seamless and intelligent voice agent interactions.
+<!-- Stats cards customized to be transparent so they blend seamlessly with light/dark modes -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stemper-dev&show_icons=true&theme=transparent&hide_border=true&title_color=5673f1&icon_color=fe00ff&text_color=a6a6a6" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stemper-dev&layout=compact&theme=transparent&hide_border=true&title_color=5673f1&icon_color=fe00ff&text_color=a6a6a6" height="165" alt="Top Languages" />
+</div>
