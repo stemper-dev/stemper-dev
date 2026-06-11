@@ -5,10 +5,10 @@
   <p>Building high-performance applications, enterprise automation systems, and AI-powered tools.</p>
   
   <p>
-    <a href="https://linkedin.com/in/0xpatryk" target="_blank">
+    <a href="https://www.linkedin.com/in/patryk-stemporowski-05150722a/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://patryk.dev" target="_blank">
+    <a href="https://www.stemporowski.de" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
     </a>
     <a href="https://github.com/stemper-dev" target="_blank">
@@ -51,7 +51,6 @@ const patryk = {
 
 ## 🚀 Featured Projects
 
-<!-- Using HTML tables creates a clean 2x2 grid for your projects -->
 <table align="center" style="border: none;">
   <tr>
     <td width="50%" align="center">
@@ -83,7 +82,6 @@ const patryk = {
 
 ## 📊 GitHub Analytics
 
-<!-- Stats cards customized to be transparent so they blend seamlessly with light/dark modes -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stemper-dev&show_icons=true&theme=transparent&hide_border=true&title_color=5673f1&icon_color=fe00ff&text_color=a6a6a6" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stemper-dev&layout=compact&theme=transparent&hide_border=true&title_color=5673f1&icon_color=fe00ff&text_color=a6a6a6" height="165" alt="Top Languages" />
